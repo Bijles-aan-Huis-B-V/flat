@@ -1,4 +1,4 @@
-module github.com/nqd/flat
+module github.com/Bijles-aan-Huis-B-V/flat
 
 go 1.16
 
